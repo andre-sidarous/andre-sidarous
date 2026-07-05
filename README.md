@@ -28,6 +28,6 @@ I’m building AI and traditional projects with a focus on real-world impact and
 [![My Skills](https://skillicons.dev/icons?i=py,c,css,fastapi,flask,git,github,html,js,mysql,ps,sqlite,tailwind)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=aws,docker,nextjs,react,supabase)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker,nextjs,react,supabase,nodejs)](https://skillicons.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3264a8&reversal=false&section=footer" alt="footer-wave"/>
